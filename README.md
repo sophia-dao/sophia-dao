@@ -1,8 +1,15 @@
-# Hi, I'm Sophia Dao
+# Sophia Dao Portfolio
+
+<details>
+<summary>About Me</summary>
+
+## About Me
 
 Master’s student in Computer Science with a focus on Cloud Computing and Machine Learning.
 
-Interested in backend systems, full-stack applications, and cloud-based platforms with an emphasis on scalable architecture, machine learning applications, and infrastructure-focused development.
+I enjoy building backend systems, full-stack applications, and cloud-based platforms that combine scalable architecture with practical user experiences. My interests include software engineering, machine learning applications, and infrastructure-focused development.
+
+</details>
 
 ---
 
@@ -164,3 +171,4 @@ Tech:
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/skdao
+- See my resume: 
