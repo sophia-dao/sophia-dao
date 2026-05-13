@@ -123,24 +123,23 @@ Tech:
 
 ### In/E Motion – Motion Tracking Animation System *(Academic Collaboration Project)*
 
-Collaborated on an interactive motion tracking and real-time animation projection system developed in partnership with the University of Texas at Arlington Fine Arts Department.
+Collaborated on an interactive motion tracking and real-time animation projection system developed in partnership with the University of Texas at Arlington Fine Arts Department. The final system was utilized in UTA Fine Arts’ *In/E Motion* dance performance showcase. [Showcase Program](https://cdn.prod.web.uta.edu/-/media/project/website/cola/theatre/box-office/2024-2025-season/in-emotion-program5.pdf)
 
-The system used Intel RealSense cameras, Nuitrack motion tracking, and Unity-based rendering to create immersive performance environments that dynamically responded to performer movement in real time.
+The project used Intel RealSense cameras, Nuitrack motion tracking, and Unity-based rendering to create immersive performance environments that dynamically responded to performer movement in real time.
 
+[Project Overview and Documentation](https://websites.uta.edu/cseseniordesign/2024/12/11/in-e-motion/)
 
-[Project Overview](https://websites.uta.edu/cseseniordesign/2024/12/11/in-e-motion/)
-
-Highlights:
+#### Highlights
 - Implemented motion tracking functionality using the Nuitrack SDK
-- Worked with real-time RGB and depth sensor data
-- Improved motion tracking performance compared to an OpenCV-based implementation
+- Worked with real-time RGB and depth sensor data pipelines
+- Developed Unity-based projection and animation workflows
+- Improved motion tracking performance compared to a previous OpenCV-based implementation
 - Contributed to interactive gesture and depth-based scene development
-- Collaborated with cross-functional teams across computer science and fine arts disciplines
+- Collaborated across Computer Science and Fine Arts disciplines on interactive performance technology
 - Supported development of reusable tools and documentation for future project cohorts
 
-Tech:
+#### Tech Stack
 `Unity` `Nuitrack SDK` `Intel RealSense` `OpenCV` `Python`
-
 </details>
 
 ---
