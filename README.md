@@ -170,5 +170,5 @@ Tech:
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/skdao
-- See my resume: 
+- [LinkedIn](www.linkedin.com/in/skdao)
+- [See my resume](https://github.com/sophia-dao/sophia-dao/blob/main/resume.pdf) 
