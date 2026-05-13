@@ -138,7 +138,7 @@ The project used Intel RealSense cameras, Nuitrack motion tracking, and Unity-ba
 - Collaborated across Computer Science and Fine Arts disciplines on interactive performance technology
 - Supported development of reusable tools and documentation for future project cohorts
 
-#### Tech Stack
+#### Tech
 `Unity` `Nuitrack SDK` `Intel RealSense` `OpenCV` `Python`
 </details>
 
