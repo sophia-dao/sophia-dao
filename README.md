@@ -108,6 +108,8 @@ The project used Intel RealSense cameras, Nuitrack motion tracking, and Unity-ba
 
 Hackathon project focused on forecasting global supply chain stress using economic indicators, machine learning, and real-time analytics.
 
+[Repository](https://github.com/sophia-dao/hackathon)
+
 Highlights:
 - Developed a FastAPI backend for data processing and forecasting workflows
 - Built LSTM-based time-series forecasting models using TensorFlow/Keras
