@@ -82,39 +82,6 @@ Tech:
 
 ---
 
-### Sorting Algorithm Visualizer
-Interactive sorting visualization and benchmarking platform built with Spring Boot and React.
-
-[Repository](https://github.com/sophia-dao/sortalgo)
-
-Features:
-- Real-time sorting visualization
-- Benchmark mode with runtime analysis
-- Multiple Quick Sort pivot strategies
-- REST API backend
-- CLI support
-
-Tech:
-`Java` `Spring Boot` `React` `Material UI`
-
----
-
-### Global Supply Chain Stress Index (GSSI)
-
-Hackathon project focused on forecasting global supply chain stress using economic indicators, machine learning, and real-time analytics.
-
-Highlights:
-- Developed a FastAPI backend for data processing and forecasting workflows
-- Built LSTM-based time-series forecasting models using TensorFlow/Keras
-- Processed and normalized economic indicator data using Pandas and scikit-learn
-- Integrated OpenAI API functionality for AI-generated summaries and insights
-- Created interactive frontend visualizations using React and Recharts
-
-Tech:
-`FastAPI` `TensorFlow/Keras` `React` `Pandas` `scikit-learn` `OpenAI API`
-
----
-
 ### In/E Motion – Motion Tracking Animation System *(Academic Collaboration Project)*
 
 Collaborated on an interactive motion tracking and real-time animation projection system developed in partnership with the University of Texas at Arlington Fine Arts Department. The final system was utilized in UTA Fine Arts’ *In/E Motion* dance performance showcase. [Showcase Program](https://cdn.prod.web.uta.edu/-/media/project/website/cola/theatre/box-office/2024-2025-season/in-emotion-program5.pdf)
@@ -134,6 +101,40 @@ The project used Intel RealSense cameras, Nuitrack motion tracking, and Unity-ba
 
 #### Tech
 `Unity` `Nuitrack SDK` `Intel RealSense` `OpenCV` `Python`
+
+---
+
+### Global Supply Chain Stress Index (GSSI)
+
+Hackathon project focused on forecasting global supply chain stress using economic indicators, machine learning, and real-time analytics.
+
+Highlights:
+- Developed a FastAPI backend for data processing and forecasting workflows
+- Built LSTM-based time-series forecasting models using TensorFlow/Keras
+- Processed and normalized economic indicator data using Pandas and scikit-learn
+- Integrated OpenAI API functionality for AI-generated summaries and insights
+- Created interactive frontend visualizations using React and Recharts
+
+Tech:
+`FastAPI` `TensorFlow/Keras` `React` `Pandas` `scikit-learn` `OpenAI API`
+
+---
+
+### Sorting Algorithm Visualizer
+Interactive sorting visualization and benchmarking platform built with Spring Boot and React.
+
+[Repository](https://github.com/sophia-dao/sortalgo)
+
+Features:
+- Real-time sorting visualization
+- Benchmark mode with runtime analysis
+- Multiple Quick Sort pivot strategies
+- REST API backend
+- CLI support
+
+Tech:
+`Java` `Spring Boot` `React` `Material UI`
+
 </details>
 
 ---
