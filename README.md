@@ -144,20 +144,9 @@ Tech:
 ## Current Interests
 
 - Backend Engineering
-- Cloud Infrastructure
-- Distributed Systems
-- Machine Learning Applications
-- Scalable System Design
-
----
-
-## Currently Learning
-
-- Software Quality Assurance & Testing
-- System Design
-- Machine Learning Applications
-- Data Science & Analytics
 - Cloud Computing
+- Machine Learning Applications
+- Real-Time Systems
 
 </details>
 
