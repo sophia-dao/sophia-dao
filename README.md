@@ -27,12 +27,6 @@ I enjoy building backend systems, full-stack applications, and cloud-based platf
 - C/C++
 - HTML/CSS
 
-### Software Engineering
-- REST API Development
-- Backend Development
-- Full-Stack Development
-- Data Processing & Analysis
-- Algorithm Visualization & Benchmarking
 
 ### Frameworks & Libraries
 - Spring Boot
@@ -162,6 +156,7 @@ The project used Intel RealSense cameras, Nuitrack motion tracking, and Unity-ba
 - System Design
 - Machine Learning Applications
 - Data Science & Analytics
+- Cloud Computing
 
 </details>
 
